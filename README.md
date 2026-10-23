@@ -15,3 +15,11 @@ Check accuracy, confusion matrix, and classification report to understand the mo
 
 3. Easy-to-Use Interface:
 Built with Streamlit, the tool displays results with a clear color-coded background: Pink for Spam and Purpul for Not Spam.
+
+---
+
+## About the developer
+
+Built by **Pallavi Vholgade**. Explore my AI / ML projects, experience, and skills in my [portfolio](https://pallavi-portfolio-preview.vercel.app).
+
+[LinkedIn](https://www.linkedin.com/in/pallavi-vholgade-05565b24b) · [Email](mailto:pallavivhalgade@gmail.com)
